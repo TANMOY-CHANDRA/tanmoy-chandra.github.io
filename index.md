@@ -1,8 +1,10 @@
 # Tanmoy Chandra
 
-### Email ID: tanmoy.chandra5@gmail.com                     ### +917003991709
+#### Email ID: tanmoy.chandra5@gmail.com                     
 
-### linkedin.com/in/tanmoy-chandra-23045b119
+#### Ph. No. - +917003991709
+
+#### Linkedin Profile:- linkedin.com/in/tanmoy-chandra-23045b119
  
 ## Summary
 ![](/image/cliniops.png)
