@@ -5,5 +5,6 @@
 ### linkedin.com/in/tanmoy-chandra-23045b119
  
 ## Summary
+![](/image/cliniops.png)
 
 
