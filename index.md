@@ -4,7 +4,7 @@
 
 #### Ph. No. - +917003991709
 
-#### Linkedin Profile:- linkedin.com/in/tanmoy-chandra-23045b119
+#### [Click here to proceed to Linkedin profile.](linkedin.com/in/tanmoy-chandra-23045b119)
  
 ## Summary
 
