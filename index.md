@@ -16,7 +16,7 @@
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cliniops, Inc
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jul 2019 - Present
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Clinical Data Management
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Understanding Study Protocol and Statistical Analysis Plan (SAP) and chalk out the required analysisneeded to complete the study.
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Understanding Study Protocol and Statistical Analysis Plan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (SAP) and chalk out the required analysisneeded to complete the study.
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  Created SDTM domains and ADaM datasets for Statistical Analysis.
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  Created and Delivered TLFs (Tables, Listing, Figures) for clinical trial studies of Sanaria Inc, RenibusTherapeutics, DNDi, Skinject using SAS.
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  Thorough understanding of ICH & GCP guidelines of Clinical Trials and CDISC data standards ofSDTMIG and ADaMIG.
