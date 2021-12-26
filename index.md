@@ -15,6 +15,6 @@ i consider myself to be a avid learner and always willing to learn newer things.
 
 ## Exprience
 
-![](/image/cliniops.png) ### Product Analyst
+![](/image/cliniops.png) Product Analyst
 
 
