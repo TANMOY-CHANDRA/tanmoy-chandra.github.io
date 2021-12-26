@@ -2,7 +2,7 @@
 
 #### Email ID: tanmoy.chandra5@gmail.com                     
 
-#### Ph. No. - +917003991709
+#### Ph. No. :- +917003991709
 
 #### [Click here to proceed to my Linkedin profile.](linkedin.com/in/tanmoy-chandra-23045b119)
  
